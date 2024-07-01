@@ -1,0 +1,3 @@
+odoo_source_list:
+  - { name: "oca_geospacial", url: "https://github.com/OCA/geospatial", dest: "community_addons/geospacial", version: "16.0"}
+  - { name: "oca_timesheet", url: "https://github.com/OCA/timesheet", dest: "community_addons/timesheet", version: "17.0"}
