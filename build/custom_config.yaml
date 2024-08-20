@@ -1,2 +1,4 @@
 custom_odoo_source_list:
-  - { name: "oca_timesheet", url: "https://github.com/OCA/timesheet", dest: "community_addons/timesheet", version: "17.0"}
+  - { name: "odoo_community", url: "git@github.com:/odoo/enterprise", dest: "odoo", version: "15.0"}
+  - { name: "odoo_enterprise", url: "git@github.com:/odoo/enterprise", dest: "enterprise_addons", version: "15.0"}
+  - { name: "oca_timesheet", url: "https://github.com/OCA/timesheet", dest: "community_addons/timesheet", version: "15.0"}
