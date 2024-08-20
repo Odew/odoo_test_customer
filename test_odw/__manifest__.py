@@ -3,7 +3,7 @@
 
 {
     'name': 'Test ODW',
-    'version': '1.0.0.0.1',
+    'version': '17.0.0.0.1',
     'category': 'Other',
     'summary': 'Test ODW Module',
     'description': """This is a test module""",
