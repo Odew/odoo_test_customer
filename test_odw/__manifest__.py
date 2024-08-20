@@ -3,12 +3,13 @@
 
 {
     'name': 'Test ODW',
-    'version': '1.0',
+    'version': '17.0.0.0.1',
     'category': 'Other',
     'summary': 'Test ODW Module',
     'description': """This is a test module""",
-    'depends': ['sale', 'purchase'],
+    'depends': ["base", "sale", "purchase"],
     'data': [
+        "views/res_partner_views.xml",
     ],
     'installable': True,
     'license': 'LGPL-3',
